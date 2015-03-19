@@ -1,2 +1,2 @@
-E:\AndroidStudioProjects\twitter-searches\app\build\intermediates\classes\debug
-E:\AndroidStudioProjects\twitter-searches\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-c6078777f6e647a15525dd79b8400f25600f2a34.jar
+C:\Users\ElaineJDY\Documents\GitHub\twitter-searches\app\build\intermediates\classes\debug
+C:\Users\ElaineJDY\Documents\GitHub\twitter-searches\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-c6078777f6e647a15525dd79b8400f25600f2a34.jar
